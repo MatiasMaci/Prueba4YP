@@ -1,0 +1,19 @@
+.navegacion {
+    display: inline-block;
+    background-color: brown;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.navegacion:hover{
+    background-color: rgb(105, 95, 95);
+}
+
+nav{
+    background-color: rgb(17, 0, 255);
+    padding: 10px;
+}
+
+.espacio{
+    margin: 20px;
+}
